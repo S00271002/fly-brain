@@ -719,3 +719,4 @@ Brian2GeNN (GPU),32,0.1,33.013,1344.277,2.624,1381.394,1.2195,0,0,success,2026-0
 Brian2GeNN (GPU),32,1.0,29.349,1178.222,38.381,1247.261,0.8337,0,0,success,2026-06-24 15:24:09,brian2genn,Sugar GRNs (200 Hz),sugar,nature_2026_07_noio,1,
 Brian2GeNN (GPU),32,10.0,25.161,1175.963,395.892,1598.205,0.8083,0,0,success,2026-06-24 15:49:41,brian2genn,Sugar GRNs (200 Hz),sugar,nature_2026_07_noio,1,
 Brian2GeNN (GPU),32,100.0,23.439,1202.821,3908.939,5136.329,0.8186,0,0,success,2026-06-24 17:10:59,brian2genn,Sugar GRNs (200 Hz),sugar,nature_2026_07_noio,1,
+PyTorch (CUDA),1,0.1,18.869,0.0,2.689,21.966,0.0372,1328,303,success,2026-10-19 15:55:55,pytorch,Sugar GRNs (200 Hz),sugar,,,data/results/pytorch_t0.1s_n1.parquet
